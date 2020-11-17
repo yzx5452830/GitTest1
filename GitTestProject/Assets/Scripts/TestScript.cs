@@ -15,5 +15,15 @@ public class TestScript : MonoBehaviour
 
     }
 
-   
+    private void Update(){
+	    print("TestUpdate");
+	    print("TestUpdate");
+
+	    
+	    print("TestUpdate");
+
+	    print("TestUpdate");
+
+    }
+
 }
